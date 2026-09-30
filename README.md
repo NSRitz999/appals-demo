@@ -1,4 +1,4 @@
-# Appals
+# Appals ⛰️
 
 As the Amazon forest is to *Amazon*, the Appalachian Mountains is to my fun backend demo project for creating a Spring Boot server with many different CRUD-styled REST endpoints.
 
